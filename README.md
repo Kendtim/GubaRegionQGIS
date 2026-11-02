@@ -19,9 +19,8 @@ Tools
 
 Repository Contents
 
-* project/ — QGIS project file
-* data/ — shapefiles and supporting data
-* maps/ — exported maps in PDF or PNG format
+* Project.qgz — QGIS project file
+* Final_Map1_Rahimzade_Farhad.png — exported maps in PNG format
 
 How to Open
 
@@ -29,10 +28,3 @@ How to Open
 2. Open the .qgz project file in QGIS.
 3. If necessary, update the data paths.
 
-Data Sources
-
-Add the original data sources and relevant licenses here.
-
-Author
-
-Petroleum Engineering and Reservoir Geology Student
